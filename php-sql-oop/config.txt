@@ -1,0 +1,4 @@
+DB_HOST = localhost
+DB_NAME = ug224_backend
+DB_USER = ug224
+DB_PASSWORD = ug224
